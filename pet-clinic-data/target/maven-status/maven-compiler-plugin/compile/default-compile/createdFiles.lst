@@ -1,0 +1,5 @@
+com/petclinic/petclinic/model/Person.class
+com/petclinic/petclinic/model/Vet.class
+com/petclinic/petclinic/model/Pet.class
+com/petclinic/petclinic/model/PetType.class
+com/petclinic/petclinic/model/Owner.class
